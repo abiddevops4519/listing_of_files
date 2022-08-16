@@ -1,3 +1,3 @@
  ls -ltr
- echo "Hello World"
+ echo "Hello World">>abidtest.dat
 
